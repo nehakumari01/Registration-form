@@ -1,0 +1,20 @@
+.row{
+    width: 895px;height: 60px;
+    text-align: center;
+    font-style: italic;font-size: 30px;
+    color: yellowgreen;
+    background-color:skyblue;
+    color: white;
+}
+.row:hover{
+    background-color:blue;
+    color: black;
+}
+.new{
+    width: 900px;height: 660px;
+    background-color: skyblue;font-size: 15px;
+    border-top:5px solid yellow
+    
+    ;
+    
+}
